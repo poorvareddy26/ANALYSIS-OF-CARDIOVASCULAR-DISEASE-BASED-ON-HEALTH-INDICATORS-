@@ -135,17 +135,13 @@ Physical activity
 Alcohol consumption
 
 Smoking (surprisingly, non-smokers showed higher CVD in this dataset)
+Results:
+Based of the results of the correlation analysis and hypothesis tests we have identified that the health indicators of age, gender, blood pressure, cholesterol level, and smoking are the most important risk factors for CVD in the study population. Therefore, we couldn’t accept null hypothesis.
+Systolic blood pressure, Age, cholesterol, weight, BMI have strong correlation with cardiovascular disease and the attributes of glucose, smoking, alcohol, physical activity has weak correlation with cardiovascular disease.
+Based on the performance metrics of machine learning models we used, the developed predictive machine learning models can predict the presence of cardiovascular disease based on these indicators.
+
 
 🔚 Conclusion
 This cross-sectional analysis highlights that age, systolic BP, BMI, and cholesterol are key risk indicators of cardiovascular disease. The machine learning models showed potential for predictive application, especially in screening tools. However, the study also emphasized the need for longitudinal research to establish causal pathways and the integration of more diverse data to improve model robustness.
 
-Limitations
-Cross-sectional design: Limits causality inference.
 
-Dataset bias: May not be representative of the global population.
-
-Measurement limitations: Errors in data recording may affect accuracy.
-
-Uncaptured variables: Factors like family history, diet, stress, and medication adherence were not included.
-
-Weak model generalizability without external validation.
